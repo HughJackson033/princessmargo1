@@ -6,8 +6,8 @@ import time
 
 
 
-reddit = praw.Reddit(client_id = 'qv6jfee-vtd0ew',
-client_secret = 'iZpgFVusPtkti6lw7zQp3WiYHcyJww',
+reddit = praw.Reddit(client_id = 'YMATiRlp8QMDvg',
+client_secret = 'c_gRRVNHHA1vzwXQQx5jcyjrgtMqrQ',
 user_agent = 'console: message_bot 1.0',
 username = 'princessmargo1',
 password = '12334561233456')
